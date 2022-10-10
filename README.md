@@ -1,1 +1,1 @@
-# Recepies_React
+# Recipes_React
